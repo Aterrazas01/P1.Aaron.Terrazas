@@ -37,4 +37,5 @@ Since the elevator is very minimalistic, there is no instructions on how to use 
 
 While it may be simple already, the design can be improved to as such:
 
-[Insert sketch]
+![Sketch](https://user-images.githubusercontent.com/61167114/192936393-9b81f460-3a1c-4643-8e3d-bc053f919dd1.jpg)
+
