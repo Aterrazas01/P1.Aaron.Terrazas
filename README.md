@@ -39,3 +39,8 @@ While it may be simple already, the design can be improved to as such:
 
 ![Sketch](https://user-images.githubusercontent.com/61167114/192936393-9b81f460-3a1c-4643-8e3d-bc053f919dd1.jpg)
 
+Using the sketch, the working version of the elevator would look as such:
+
+![WorkingGif](https://user-images.githubusercontent.com/61167114/192938656-a08c2fda-1e19-4e3b-9f2a-def89a82783a.gif)
+
+
