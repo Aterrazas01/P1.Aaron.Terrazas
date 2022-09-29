@@ -1,7 +1,7 @@
 # P1.Aaron.Terrazas
 -------------------------------------
            Elevator Project
--------------------------------------      
+
 
 Consider the following elevator images:
 
