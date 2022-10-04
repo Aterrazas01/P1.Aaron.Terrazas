@@ -17,12 +17,12 @@ The elevator design can be improved by having the floor buttons in a single colu
 
 The way the panel is laid out, it does do good by having the alarm and emergency call buttons separate from the floor buttons. This prevents accidental presses of the emergency buttons. Additionally, the black spaces next to each button is a great addition as it clearly indicates what each button is for. Once again however, the cramped alternating design makes this elevator design poor
 
-The most commonly used things in the elevator are:
+The most commonly used buttons in the elevator are:
 - First Floor Button
 - Basement Button
 - Close Door Button
 
-The least used things in the elevator are:
+The least used buttons in the elevator are:
 - Alarm Button
 - Emergency Call Button
 
