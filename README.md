@@ -29,9 +29,9 @@ The least used buttons in the elevator are:
 Since these items are separated, it's very easy to use the common buttons.
 
 The design of the elevator is very simplistic and minimalistic, So the sequence to use the elevator is as follows:
--  1. Press the exterior button to go up
--  2. Press the floor you wish to go to
--  3. Press the close door button
+1. Press the exterior button to go up
+2. Press the floor you wish to go to
+3. Press the close door button
 
 Since the elevator is very minimalistic, there is no instructions on how to use the elevator, however it does provide feedback by having an indicator on which floor you're on. 
 
